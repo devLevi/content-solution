@@ -23,17 +23,8 @@ const gmailTransporter = nodemailer.createTransport({
 
 const message = {
   from: 'levichristianbernard@gmail.com', // Sender address
-  to: [
-    'lbernard.dev@gmail.com',
-    'lbernard.dev@yahoo.com',
-    'nadiabh182@gmail.com'
-    // 'homenowtest@gmail.com',
-    // 'homenowtest@outlook.com',
-    // 'homenowtest@yahoo.com',
-    // 'homenowtest@aol.com',
-    // 'homenowtest@homenow.io'
-  ], // List of recipients
-  subject: 'Home Now Safty Info | The Heimlich Maneuver', // Subject line
+  to: ['lbernard.dev@gmail.com'], // List of recipients
+  subject: 'Home Now Safety | The Heimlich Maneuver', // Subject line
   html: html
 };
 gmailTransporter.sendMail(message, function(err, info) {

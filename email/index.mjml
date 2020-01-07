@@ -1,5 +1,6 @@
 <mjml>
   <mj-head>
+    <mj-preview>Learn how to save lifes with the Heimlich Maneuver</mj-preview>
     <mj-attributes>
       <mj-all font-family="Raleway, sans-serif"></mj-all>
       <mj-accordion border="none" padding="1px" />
@@ -22,16 +23,16 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#00c9a7" padding-bottom="0px" padding-top="0">
-      <mj-column width="240px">
+      <mj-column width="260px">
         <mj-text align="left" color="#fff" font-size="40px" padding-left="24px" padding-right="24px" padding-bottom="0px" padding-top="10px">
           <p style="font-size: 30px; text-align: center; color:#636463 "><b>Save a Life</b></p>
           <p style="font-size: 24px; text-align: center">Master the Heimlich Maneuver</p>
-          <p style="font-size: 14px; line-height:15px"> Each year, many people choke to death because of objects obstructing their airways. Choking is the fourth leading cause of unintentional death. The Heimlich Maneuver can be adapted for use with infants, pregnant women and adults. You can even
+          <p style="font-size: 13px; line-height:15px"> Each year, many people choke to death because of objects obstructing their airways. Choking is the fourth leading cause of unintentional death. The Heimlich Maneuver can be adapted for use with infants, pregnant women and adults. You can even
             perform it on yourself. Learning how to properly perform this simple technique increases your ability to save a life. </p>
         </mj-text>
       </mj-column>
-      <mj-column width="350px">
-        <mj-image src="https://i.imgur.com/HJPYYDG.jpg" alt="Clothes set" align="center" border="none" width="350px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      <mj-column width="340px">
+        <mj-image src="https://i.imgur.com/HJPYYDG.jpg" alt="Clothes set" align="center" border="none" width="340px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
       </mj-column>
     </mj-section>
 
