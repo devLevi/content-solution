@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Raleway, sans-serif"></mj-all>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="https://i.imgur.com/IVBjOsN.png" icon-unwrapped-url="https://i.imgur.com/EwElUXT.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Raleway, sans-serif" background-color="#fafafa" color="#031017" padding="15px" font-size="18px" />
+      <mj-accordion-text font-family="Raleway, sans-serif" background-color="#fff" padding="15px" color="#00c9a7" font-size="14px" />
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#d6dde5">
+    <mj-section background-color="#ffffff">
+      <mj-column width="50%">
+        <mj-image href="http://homenow.io/" src="https://i.imgur.com/5v8oDs2.png" alt="home now logo" align="center" padding="10px"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-navbar base-url="http://homenow.io/" hamburger="hamburger" ico-color="#636463">
+          <mj-navbar-link href="http://homenow.io/" color="#000000">Learn More</mj-navbar-link>
+          <mj-navbar-link href="http://homenow.io/createaccount" color="#000000">Sign Up</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#00c9a7" padding-bottom="0px" padding-top="0">
+      <mj-column width="240px">
+        <mj-text align="left" color="#fff" font-size="40px" padding-left="24px" padding-right="24px" padding-bottom="0px" padding-top="10px">
+          <p style="font-size: 30px; text-align: center; color:#636463 "><b>Save a Life</b></p>
+          <p style="font-size: 24px; text-align: center">Master the Heimlich Maneuver</p>
+          <p style="font-size: 14px; line-height:15px"> Each year, many people choke to death because of objects obstructing their airways. Choking is the fourth leading cause of unintentional death. The Heimlich Maneuver can be adapted for use with infants, pregnant women and adults. You can even
+            perform it on yourself. Learning how to properly perform this simple technique increases your ability to save a life. </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="350px">
+        <mj-image src="https://i.imgur.com/HJPYYDG.jpg" alt="Clothes set" align="center" border="none" width="350px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-text align="center" font-weight="500" font-size="24px" color="#00c9a7">Learn the Heimlich Maneuver</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px 20px 20px" background-color="#ffffff">
+      <mj-column background-color="#dededd">
+        <mj-accordion>
+          <mj-accordion-element>
+            <mj-accordion-title color="#636463">Adults</mj-accordion-title>
+            <mj-accordion-text>
+              <span style="line-height:20px">
+                <p><b>Step 1:</b> Get the person to stand up.</p>
+                <p><b>Step 2:</b> Position yourself behind the person.</p>
+                <p><b>Step 3:</b> Lean the person forward and give five blows to their back with the heel of your hand.</p>
+                <p><b>Step 4:</b> Place your arms around their waist.</p>
+                <p><b>Step 5:</b> Make a fist and place it just above the navel, thumb side in.</p>
+                <p><b>Step 6:</b> Grab the fist with your other hand and push it inward and upward at the same time. Perform five of these abdominal thrusts.</p>
+                <p><b>Step 7:</b> Repeat until the object is expelled and the person can breathe or cough on their own.</p>
+                <p><b>For Pregnant Women:</b> You need to place your hand a little higher on their torso, around the base of their breastbone. If that person is unconscious, place them on their back and try to clear the airway with your finger in a sweeping motion. If you can’t remove the lodged object, begin performing CPR.</p>
+              </span>
+            </mj-accordion-text>
+          </mj-accordion-element>
+          <mj-accordion-element>
+            <mj-accordion-title color="#636463">Children</mj-accordion-title>
+            <mj-accordion-text>
+              <span style="line-height:20px">
+                <p><b>Step 1:</b> Sit down and hold the infant facedown on your forearm, which should be resting on your thigh.</p>
+                <p><b>Step 2:</b> Give five back blows gently with the heel of your hand.</p>
+                <p><b>Step 3:</b> If that doesn’t work, position the infant face up and resting on your forearm and thigh so their head is lower than their trunk.</p>
+                <p><b>Step 4:</b> Place two fingers at the center of their breastbone and perform five quick chest compressions.</p>
+                <p><b>Step 5:</b> Repeat the back blows and chest thrusts until the object is expelled and the infant can breathe or cough on their own.</p>
+              </span>
+            </mj-accordion-text>
+          </mj-accordion-element>
+          <mj-accordion-element>
+            <mj-accordion-title color="#636463">Yourself</mj-accordion-title>
+            <mj-accordion-text>
+              <span style="line-height:20px">
+                <p><b>Step 1:</b> Make a fist and place it just above your navel, thumb side in.</p>
+                <p><b>Step 2:</b> Grab the fist with your other hand and push it inward and upward at the same time. Perform five of these abdominal thrusts.</p>
+                <p><b>Step 3:</b> Repeat until the object is expelled and you can breathe or cough on your own.</p>
+              </span>
+            </mj-accordion-text>
+          </mj-accordion-element>
+        </mj-accordion>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fafafa">
+      <mj-column width="100%">
+        <mj-image src="http://nimus.de/share/tpl-card/lineshadow.png" alt="" align="center" border="none" padding="0px"></mj-image>
+        <mj-text align="center" padding="50px 40px 0 40px" line-height="16px">Home accidents affect everyone: parents, seniors, or children. The best way to mitigate accidents and incidents is to spend a few minutes each week making your home safer. Home Now helps you by handling the tedious tasks of research, scheduling,
+          and reminders, so you can focus on making your home safer</mj-text>
+        <mj-button align="center" background-color="#00c9a7" color="#FFFFFF" border-radius="20px" href="http://homenow.io/" inner-padding="15px 30px" padding-bottom="100px" padding-top="24px">Learn More</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="0">
+      <mj-column>
+        <mj-image href="http://homenow.io/" src="https://i.imgur.com/5v8oDs2.png" alt="home now logo" align="center" padding-top="20px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="14px" padding-left="24px" padding-right="24px" padding-bottom="0px" padding-top="0">
+          <p><a href="http://homenow.io/privacy" style="text-decoration: none; color:#636463;">Privacy policy</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="google" href="[[SHORT_PERMALINK]]"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" padding-top="0px"></mj-section>
+  </mj-body>
+</mjml>
