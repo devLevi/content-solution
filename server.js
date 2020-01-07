@@ -22,9 +22,9 @@ const gmailTransporter = nodemailer.createTransport({
 });
 
 const message = {
-  from: 'levichristianbernard@gmail.com', // Sender address
-  to: ['lbernard.dev@gmail.com'], // List of recipients
-  subject: 'Home Now Safety | The Heimlich Maneuver', // Subject line
+  from: 'levichristianbernard@gmail.com',
+  to: ['lbernard.dev@gmail.com'],
+  subject: 'Home Now Safety | The Heimlich Maneuver',
   html: html
 };
 gmailTransporter.sendMail(message, function(err, info) {
